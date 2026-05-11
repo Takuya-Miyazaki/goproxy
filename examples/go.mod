@@ -4,8 +4,8 @@ go 1.23.0
 
 require (
 	github.com/coder/websocket v1.8.14
-	github.com/elazarl/goproxy v1.5.0
-	github.com/elazarl/goproxy/ext v0.0.0-20250117123040-e9229c451ab8
+	github.com/elazarl/goproxy v0.0.0-20241217120900-7711dfa3811c
+	github.com/elazarl/goproxy/ext v0.0.0-20260212222702-ffdf0b284e35
 	github.com/inconshreveable/go-vhost v1.0.0
 )
 
